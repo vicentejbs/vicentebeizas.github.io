@@ -24,7 +24,7 @@ export const HeroSection = () => {
                 Estudiante de Ingeniería Civil Telemática
               </p>
             </div>
-            
+
             <h1 className="animate-fade-up animation-delay-100">
               <span className="block text-4xl md:text-5xl lg:text-6xl font-display font-bold text-foreground leading-tight">
                 Vicente Jesús
@@ -49,7 +49,7 @@ export const HeroSection = () => {
 
             <div className="flex items-center gap-4 mt-8 justify-center lg:justify-start animate-fade-up animation-delay-400">
               <a
-                href="https://www.linkedin.com/in/vicente-beiza"
+                href="https://www.linkedin.com/in/vicentebeizas"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-secondary hover:bg-primary/10 transition-colors"

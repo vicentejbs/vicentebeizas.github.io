@@ -11,7 +11,7 @@ export const ContactSection = () => {
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto rounded-full" />
           <p className="mt-6 text-muted-foreground text-lg">
-            Estoy abierto a nuevas oportunidades, colaboraciones y conversaciones. 
+            Estoy abierto a nuevas oportunidades, colaboraciones y conversaciones.
             Si mi perfil te interesa, ¡conversemos!
           </p>
         </div>
@@ -31,7 +31,7 @@ export const ContactSection = () => {
 
           {/* LinkedIn */}
           <a
-            href="https://www.linkedin.com/in/vicente-beiza"
+            href="https://www.linkedin.com/in/vicentebeizas"
             target="_blank"
             rel="noopener noreferrer"
             className="card-glass card-hover p-8 text-center group"
@@ -40,7 +40,7 @@ export const ContactSection = () => {
               <Linkedin className="w-8 h-8 text-primary" />
             </div>
             <h3 className="font-semibold text-foreground mb-2">LinkedIn</h3>
-            <p className="text-muted-foreground text-sm">@vicente-beiza</p>
+            <p className="text-muted-foreground text-sm">@vicentebeizas</p>
           </a>
 
           {/* Location */}

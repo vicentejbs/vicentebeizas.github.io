@@ -1,5 +1,6 @@
 import { ArrowDown, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { CVModal } from "@/components/CVModal";
 import profileImage from "@/assets/vicente-profile.png";
 
 export const HeroSection = () => {
@@ -45,6 +46,7 @@ export const HeroSection = () => {
               <Button variant="heroOutline" size="lg" asChild>
                 <a href="#proyectos">Ver proyectos</a>
               </Button>
+              <CVModal />
             </div>
 
             <div className="flex items-center gap-4 mt-8 justify-center lg:justify-start animate-fade-up animation-delay-400">
